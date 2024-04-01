@@ -27,7 +27,7 @@ int main() {
     cin >> mhs.alamat.kota;
 
     cin.ignore();
-    
+
     cout << "Umur Mahasiswa : ";
     cin >> mhs.umur;
 
